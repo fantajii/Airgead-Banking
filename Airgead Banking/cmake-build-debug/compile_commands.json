@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/gary/CLionProjects/Airgead Banking/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Airgead_Banking.dir/main.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Airgead_Banking.dir/main.cpp.o -c \"/home/gary/CLionProjects/Airgead Banking/main.cpp\"",
+  "file": "/home/gary/CLionProjects/Airgead Banking/main.cpp",
+  "output": "/home/gary/CLionProjects/Airgead Banking/cmake-build-debug/CMakeFiles/Airgead_Banking.dir/main.cpp.o"
+},
+{
+  "directory": "/home/gary/CLionProjects/Airgead Banking/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles/Airgead_Banking.dir/InvestmentCalculator.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/Airgead_Banking.dir/InvestmentCalculator.cpp.o -c \"/home/gary/CLionProjects/Airgead Banking/InvestmentCalculator.cpp\"",
+  "file": "/home/gary/CLionProjects/Airgead Banking/InvestmentCalculator.cpp",
+  "output": "/home/gary/CLionProjects/Airgead Banking/cmake-build-debug/CMakeFiles/Airgead_Banking.dir/InvestmentCalculator.cpp.o"
+}
+]
