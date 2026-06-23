@@ -1,5 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/Airgead_Banking.dir/main.cpp.o: dyndep
-
-build CMakeFiles/Airgead_Banking.dir/InvestmentCalculator.cpp.o: dyndep
-
